@@ -36,8 +36,3 @@ TP2_GitHub_Projet/
     └── main.py
 ```
 
-## Utilisation
-Lancer le programme, puis choisir une option dans le menu. Les tâches sont sauvegardées dans `tasks.json` à la racine du projet.
-
-## Travail GitHub
-Le TP permet de pratiquer les commits, push, pull, Issues, Projects, branches, Pull Requests, fusion et releases. Les contributions de plusieurs rôles peuvent être simulées dans un exercice individuel ; elles ne représentent pas de véritables comptes collaborateurs.
