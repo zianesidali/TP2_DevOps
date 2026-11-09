@@ -1,0 +1,16 @@
+Projet : Task Manager – Gestionnaire de tâches
+Objectif : créer une application simple en Python pour organiser des tâches personnelles.
+Fonctionnalités principales :
+1. Ajouter une tâche.
+2. Afficher les tâches.
+3. Marquer une tâche comme terminée.
+4. Supprimer une tâche.
+5. Enregistrer les données dans un fichier JSON.
+
+Organisation pédagogique individuelle :
+- Rôle 1 – Coordination : création du dépôt et organisation du travail.
+- Rôle 2 – Développement : réalisation des fonctions principales.
+- Rôle 3 – Tests : vérification des scénarios d'utilisation.
+- Rôle 4 – Documentation : rédaction du README et du bilan.
+
+Remarque : ces rôles sont des responsabilités simulées assumées par un seul étudiant.
